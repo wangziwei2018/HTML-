@@ -2,7 +2,7 @@
 20180912HTML小总结
 <hr/>
 html代码的开头总是有这样的一串，它们的意思是
-<xmp><!DOCTYPE html>  文件类型是HTML
+<xmp><!DOCTYPE html></xmp>文件类型是HTML
 <html>
 <head>                     网页的顶部
 	<meta charset="utf-8">    元语言是utf-8
