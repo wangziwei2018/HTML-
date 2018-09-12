@@ -2,7 +2,7 @@
 20180912HTML小总结
 <hr/>
 html代码的开头总是有这样的一串，它们的意思是
-<pre><!DOCTYPE html>  文件类型是HTML
+<xmp><!DOCTYPE html>  文件类型是HTML
 <html>
 <head>                     网页的顶部
 	<meta charset="utf-8">    元语言是utf-8
@@ -10,5 +10,5 @@ html代码的开头总是有这样的一串，它们的意思是
 	<link rel="stylesheet" href="./html0910.css">   网页连接了一个类型为stylesheet的样式表，表链接为“。。。”
 </head>
 </html>
-</pre>
-<p>使用<!--   -->可以添加注释</p>
+</xmp>
+<xmp>使用<!--   -->可以添加注释</xmp>
